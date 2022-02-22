@@ -1,2 +1,3 @@
 # NotesApp
-Project 2 Semester 2.
+Semester : 2
+Project : 2
